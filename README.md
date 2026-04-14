@@ -9,7 +9,11 @@ Desenvolver uma interface funcional e centrada no usuário, garantindo facilidad
 🏥
 💰
 📌 Requisitos Atendidos
+
 ✔️ Desenvolvido no Figma
+
 ✔️ Wireframe (Média fidelidade)
+
 ✔️ Fluxo navegável
+
 ✔️ Dois caminhos diferentes para a mesma tarefa
